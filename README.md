@@ -13,9 +13,9 @@
 - **Key Contributions:** Active contributor to **AdenHQ/Hive**, focusing on Windows onboarding optimization and repository integrity.
 
 ### 📊 Performance Metrics
-![Suhas's GitHub stats](https://github-readme-stats.vercel.app/api?username=suhasgowtham-tech&show_icons=true&theme=transparent&hide_border=true&title_color=0366d6&icon_color=0366d6&text_color=586069)
+![Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=suhasgowtham-tech&show_icons=true&theme=transparent&hide_border=true&title_color=0366d6&icon_color=0366d6&text_color=586069)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=suhasgowtham-tech&layout=compact&theme=transparent&hide_border=true&title_color=0366d6&text_color=586069)
+![Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=suhasgowtham-tech&layout=compact&theme=transparent&hide_border=true&title_color=0366d6&text_color=586069)
 
 ---
 
