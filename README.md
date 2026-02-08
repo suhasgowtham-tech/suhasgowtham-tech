@@ -40,8 +40,9 @@
 
 ### 🐍 Contribution Neural Map (Beast Mode)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/suhasgowtham-tech/suhasgowtham-tech/output/github-beast-mode.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/suhasgowtham-tech/suhasgowtham-tech/output/github-beast-mode.svg?v=10" alt="Snake Animation" />
 </p>
+
 ---
 
 ### 📈 System Activity
