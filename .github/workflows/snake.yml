@@ -2,8 +2,8 @@ name: generate-beast-snake-animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Every midnight
-  workflow_dispatch: # This line is what creates the "Run workflow" button
+    - cron: "0 0 * * *" 
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -13,22 +13,22 @@ jobs:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
-    
     steps:
+      - uses: actions/checkout@v3
+
       - name: Generate Snake Files
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
+          github_user_name: suhasgowtham-tech
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%2358A6FF&color_dots=%23161B22,%230E4429,%23006D32,%2326A641,%2339D353
-            dist/github-beast-mode.svg?palette=github-dark&color_snake=%23FF3333&color_dots=%23161B22,%23400000,%23700000,%23A00000,%23FF0000
+            github-beast-mode.svg?palette=github-dark&color_snake=%23FF3333&color_dots=%23161B22,%23400000,%23700000,%23A00000,%23FF0000
 
-      - name: Deploy to Output Branch
+      - name: Force Push to Output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: .
+          # This line ensures it creates a clean commit on the output branch
+          keep_history: false 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
