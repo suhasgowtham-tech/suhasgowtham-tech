@@ -1,7 +1,17 @@
 # 🌌 Systems Architect | Infrastructure Resilience | Core Contributor @adenhq
 
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=suhasgowtham-tech&theme=dracula&no-frame=true&column=7" alt="Suhas Trophies" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suhasgowtham-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Suhas GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=suhasgowtham-tech&bg_color=000000&color=ff0000&line=ff0000&point=ffffff&area=true&hide_border=true" width="100%" alt="Beast Mode Activity Wave" />
 </p>
 
 ---
@@ -48,6 +58,15 @@
 ### 📈 System Activity
 * **Focus:** Hardening the `hive` framework for Enterprise-grade Windows deployment.
 * **Research:** Deep-diving into the **System Design Primer** to implement distributed consistency in AI agents.
+
+---
+
+### 🌐 Global Traffic Radar (Live)
+<p align="center">
+  <a href="https://clustrmaps.com/site/1c2f1" title="Visit tracker">
+    <img src="https://www.clustrmaps.com/map_v2.png?d=bKZL1mHDUnf3guip6f3cxaY1f1JmWdtsyn31nRmvDM&cl=ffffff" alt="Visitor Map" />
+  </a>
+</p>
 
 ---
 
