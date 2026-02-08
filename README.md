@@ -1,13 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=SUHAS%20GOWTHAM&fontSize=70&animation=fadeIn&fontAlignY=35&desc=SYSTEMS%20ARCHITECT&descSize=30&descAlignY=60" alt="Suhas Neon Header" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=SUHAS%20GOWTHAM&fontSize=70&animation=fadeIn&fontAlignY=35&desc=SYSTEMS%20ARCHITECT&descSize=30&descAlignY=60" alt="Suhas Neon Header" />
 </p>
 
 # 🌌 Systems Architect | Infrastructure Resilience | Core Contributor @adenhq
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=suhasgowtham-tech&theme=dracula&no-frame=true&column=7" alt="Suhas Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=suhasgowtham-tech&theme=dracula&no-frame=true&column=7" alt="Suhas Trophies" />
 </p>
 
 <p align="center">
@@ -52,10 +50,16 @@
 
 ---
 
-### 🐍 Contribution Neural Map
+### 🐍 Contribution Neural Map (Beast Mode)
 <p align="center">
   <img src="https://raw.githubusercontent.com/suhasgowtham-tech/suhasgowtham-tech/output/github-beast-mode.svg?v=final_victory" alt="Snake Animation" />
 </p>
+
+---
+
+### 📈 System Activity
+* **Focus:** Hardening the `hive` framework for Enterprise-grade Windows deployment.
+* **Research:** Deep-diving into the **System Design Primer** to implement distributed consistency in AI agents.
 
 ---
 
