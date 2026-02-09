@@ -37,7 +37,7 @@
 
 ### 🌐 Global Impact Radar
 <p align="center">
-  <a href="https://clustrmaps.com/site/1c2f1" title="Visit tracker">
+  <a href="https://clustrmaps.com/site/1c2f1">
     <img src="https://www.clustrmaps.com/map_v2.png?d=bKZL1mHDUnf3guip6f3cxaY1f1JmWdtsyn31nRmvDM&cl=ffffff" alt="Visitor Map" />
   </a>
 </p>
