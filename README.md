@@ -1,15 +1,39 @@
-# 🌌 Senior Systems Engineer | Infrastructure Resilience | Core @adenhq
+# 🏛️ SYSTEM STATUS: ACTIVE
+> "Resilience is the byproduct of deterministic engineering."
 
-### 🏛️ Engineering Philosophy
-"Resilience is engineered through precision, not chance." I specialize in architecting high-availability state management and autonomous infrastructure. My focus is on cross-platform parity, atomic file operations, and hardening OS-level stability for Enterprise Multi-Agent Systems.
-
-### 🛡️ Technologies & Armory
-**Languages & Tools:** Python, Bash, Docker, GitHub Actions, Linux (POSIX), Windows (msvcrt)
-
-### 🚀 Recent Systems Research & Implementations
-* **Systems Resilience:** Engineered cross-platform atomic persistence mechanisms for `aden-hive`, utilizing `msvcrt` for Windows and `fcntl` for POSIX systems to guarantee state hydration without data corruption under high concurrency.
-* **Automated Infrastructure:** Optimized CI/CD pipelines for Windows/POSIX, specializing in `uv` package acceleration and secure administrative gateways.
-* **Orchestration Engineering:** Developing scalable, outcome-driven frameworks for the AdenHQ ecosystem.
+### 🛰️ COMMAND CENTER
+| Metric | Status | Focus |
+| :--- | :--- | :--- |
+| **Persistence** | ATOMIC | High-concurrency state hydration |
+| **Reliability** | 99.999% | Chaos engineering & SIGKILL survival |
+| **Architecture** | EVENT-DRIVEN | Distributed agents, OS-level locking |
 
 ---
-[LinkedIn](https://linkedin.com/in/suhasgowtham-tech) • [Enterprise Contact](mailto:suhas.gowtham08@gmail.com)
+
+### 🔬 RESEARCH FRONTIERS
+I do not "code." I conduct structural systems engineering. My active research focuses on the intersection of kernel-level I/O and user-space determinism.
+
+* **[Project: DBOS Persistence Analysis](https://github.com/suhasgowtham-tech/dbos-persistence-analysis)**
+    * *Objective:* Validate state recovery under catastrophic process failure.
+    * *Insight:* Currently auditing Postgres write contention vs. optimistic concurrency models.
+* **[Project: AdenHive Orchestrator](https://github.com/suhasgowtham-tech/hive)**
+    * *Objective:* Developing an autonomous agent-to-agent protocol for high-throughput messaging.
+
+---
+
+### 🛠️ KERNEL & CORE STACK
+* **Low-Level:** POSIX (fcntl, mmap), WinAPI (msvcrt), Memory Alignment
+* **Orchestration:** Python/FastAPI, Docker (Rootless), GitHub Actions (Self-Hosted Runners)
+* **Philosophy:** Immutable state, idempotent operations, fail-fast recovery.
+
+---
+
+### 📡 SIGNAL TRANSMISSION
+* **Primary Focus:** Building the infrastructure for the next generation of AI-agents.
+* **Availability:** Currently accepting invitations for high-stakes infrastructure audits and systemic architectural reviews.
+
+[**> Initiate Contact**](mailto:suhas.gowtham08@gmail.com) | [**> Technical Dossier (LinkedIn)**](https://www.linkedin.com/in/suhas-r-gowtham/)
+
+---
+### 🌊 Focus: Deep Work
+*My contributions are not measured by commit frequency, but by architectural impact and system uptime.*
